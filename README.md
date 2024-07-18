@@ -2,7 +2,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/divya-c-s-6239a5294)
-
+<h3>csdivya.mbl@gmail.com</h3>
 
 
 ## 🚀 About Me
@@ -18,7 +18,7 @@ I'm DIVYA C S, a passionate web developer focused on creating dynamic and respon
 ## 🌟 Featured Projects
 
 ### 📘 [Project 1: Customer's Dashboard](https://github.com/your-github-username/project-name)
-<img src="https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F3bJ9TppDoDoQ2Zp6cHErx5%2Fbf1f21672ef25dbfbb09eca30cbdb783%2Fhow-to-use-client-dashboards-save-time.png&w=1080&q=75" alt="Project 1 Image" width="100%"/>
+<img src="" alt="Project 1 Image" width="100%"/>
 
 **Description:** The customer's Dashboard project incorporates Sweet Alert for user notifications, providing a refined and interactive user experience. It features a comprehensive display of total orders and amounts, alongside robust search functionality. Additionally, the project includes a visual representation of order distribution using a Pie Chart to facilitate better data analysis and insights.
 **Tech Stack:** HTML, JavaScript, Bootstrap, React
@@ -29,15 +29,5 @@ I'm DIVYA C S, a passionate web developer focused on creating dynamic and respon
 **Description:** A brief description of the project highlighting its features and technologies used.  
 **Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Express.js, Mongoose, Java
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
-## 📫 Contact Me
-
-Feel free to reach out to me via email or connect with me on LinkedIn and Twitter!
-
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/your-twitter-profile)
