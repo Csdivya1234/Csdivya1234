@@ -1,14 +1,13 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm DIVYA C S!
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/divya-c-s-6239a5294)
 
 
-<img src="your-image-url" alt="Profile Banner" width="100%"/>
 
 ## 🚀 About Me
 
-I'm [Your Name], a passionate web developer focused on creating dynamic and responsive web applications. As a fresher, I am constantly learning and looking forward to growing in the web development field.
+I'm DIVYA C S, a passionate web developer focused on creating dynamic and responsive web applications. As a fresher, I am constantly learning and looking forward to growing in the web development field.
 
 ## 🛠️ My Skills
 
@@ -18,11 +17,11 @@ I'm [Your Name], a passionate web developer focused on creating dynamic and resp
 
 ## 🌟 Featured Projects
 
-### 📘 [Project 1: Project Name](https://github.com/your-github-username/project-name)
+### 📘 [Project 1: Customer's Dashboard](https://github.com/your-github-username/project-name)
 <img src="project-image-url" alt="Project 1 Image" width="100%"/>
 
-**Description:** A brief description of the project highlighting its features and technologies used.  
-**Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Express.js, Mongoose, Java
+**Description:** The customer's Dashboard project incorporates Sweet Alert for user notifications, providing a refined and interactive user experience. It features a comprehensive display of total orders and amounts, alongside robust search functionality. Additionally, the project includes a visual representation of order distribution using a Pie Chart to facilitate better data analysis and insights.
+**Tech Stack:** HTML, JavaScript, Bootstrap, React
 
 ### 📗 [Project 2: Project Name](https://github.com/your-github-username/project-name)
 <img src="project-image-url" alt="Project 2 Image" width="100%"/>
