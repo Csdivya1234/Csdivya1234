@@ -18,7 +18,7 @@ I'm DIVYA C S, a passionate web developer focused on creating dynamic and respon
 ## 🌟 Featured Projects
 
 ### 📘 [Project 1: Customer's Dashboard](https://github.com/your-github-username/project-name)
-<img src="project-image-url" alt="Project 1 Image" width="100%"/>
+<img src="https://agencyanalytics.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdfcvkz6j859j%2F3bJ9TppDoDoQ2Zp6cHErx5%2Fbf1f21672ef25dbfbb09eca30cbdb783%2Fhow-to-use-client-dashboards-save-time.png&w=1080&q=75" alt="Project 1 Image" width="100%"/>
 
 **Description:** The customer's Dashboard project incorporates Sweet Alert for user notifications, providing a refined and interactive user experience. It features a comprehensive display of total orders and amounts, alongside robust search functionality. Additionally, the project includes a visual representation of order distribution using a Pie Chart to facilitate better data analysis and insights.
 **Tech Stack:** HTML, JavaScript, Bootstrap, React
